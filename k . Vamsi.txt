@@ -1,0 +1,95 @@
+
+sesion 1
+what is devops ;
+ A devops is a culture,using,this devops culture companies are adapting it for increasing delavary if aproduct quicker/fastly/asap.
+in devops culture develops and apparates engineers bcollabaratively work together to delivary the final as quick as possible.
+
+[what are the benifits of devops]
+	devops phases
+
+1.continuous development
+2.continuous integration 
+3.continuous testing
+4.continuous development/delivary
+5.continuous monitaring 
+6.continuous maintenence
+
+  *continuous  development;
+
+  programing language [java,c,c++,python,php,go,andriod,ios,don,net ext.....
+IDE'S publesh the changes into BCS github
+
+  *continuous integration; 
+  
+  jenkins
+ 
+  *continuous testing;
+  
+  *continuous development/delibvary
+
+  *continuous monitaring
+  
+  continuous maintenence 
+ 
+   sesion 2
+   Tools;
+  
+  1.Lnux;
+  *94% of companies are using linux 
+  *it's a units free.
+  *linux is an open source.
+ther are 30 to 70 commends in the linux.
+  2.JIRA;
+  *jira is a product management tool.
+  3.AWS;
+  VPC[virtual private cloud]
+  EC2[elastic compute cloud]
+  IAM[                     ]
+  S3 [simple service storage]
+  EFS[elastic file system]
+  EBS[                    ]
+  ELB[elastic cloud balance]
+  AUTO SCALLING [
+  CLOUD WATCHING[
+  4.GIF,github[
+  5.Moven[
+  6.Tom cat[
+  7.Sonarqube[
+  8.Jenkines
+  10.docketr[
+  11.Kubernetes[
+  12.Helm charts[
+  13.Prometheus and grafana[
+  14.Terraform[
+  15,Shall scripting[
+    
+      SESION -3
+ New project development using SDLC;
+  
+  -Analysis/requirement gathering 
+  -Design 
+  -Implementation [development]
+  -QA
+  -development 
+  -Support/maintainance 
+
+water fall traditional model ;
+ 
+  -Analysis/requirement gathering 
+  -Design 
+  -Implemantation [development]
+  -QA
+  -development
+  -support/maintainance
+  
+Apple company [Emplayee system]* Oracle company 
+  
+  *requirments; 
+  -sign up,login page,emplayee profile'emplayee lag out,emplayee payslips,emplayee insurance....
+  *Design ;2 weeks-- 
+ 
+  -Development ;5 developvers;1 week 
+  -Sprint;2weeks[10 working days]
+  -Testing;1 week for testing 
+  -Development;UAT 1 week
+  -Live; is accessible by apple internal emplayee
